@@ -1,4 +1,3 @@
-# HRanalytics_IBM
 # Employee Attrition Prediction – IBM HR Analytics
 
 ## Project Overview
