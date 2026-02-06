@@ -104,8 +104,6 @@ The interactive Tableau dashboard summarizes:
 - Average income and satisfaction comparisons
 - Role-based and gender-based workforce composition
 
-*(Attach dashboard image or Tableau link here if available)*
-
 ---
 
 ## How to Run the Project
